@@ -1,5 +1,5 @@
 # Portfolio Site
-## (https://www.glei.me/)
+##[Glei.me](https://www.glei.me/)
 > A personal portfolio site created using an HTML Template
 
 
@@ -39,4 +39,4 @@ Clone the repository, open within visual studio code, make desired changes, purc
 
 
 ## Usage
-Once all setup, the site can be simply accessed at your URL -> (https://www.glei.me/)
+Once all setup, the site can be simply accessed at your [URL](https://www.glei.me/)
