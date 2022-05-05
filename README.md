@@ -12,7 +12,7 @@
 
 
 ## General Information
-- 
+- This is a personal portfolio website showcasing some of my work over the past few years, along with personal and background information
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
